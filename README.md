@@ -16,14 +16,18 @@
 
 I am a Computer Science student passionate about building **real-world, scalable, and system-driven applications**.
 
-I focus on combining:
-- 🌐 Full-Stack Web Development  
-- ☁️ Cloud & Backend Systems  
-- 🔌 IoT & Edge Computing  
-- 🤖 Machine Learning Exploration  
-- 🌍 Networking & Distributed Systems  
+My primary interests include:
+- 🤖 Artificial Intelligence & Machine Learning
+- 🪞 Digital Twin Technology
+- 🌐 Networking & Distributed Systems
+- 🔒 Cybersecurity
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud & Backend Systems
+- 🔌 IoT & Edge Computing
 
-I enjoy turning ideas into **working production-style systems**, not just small academic projects.
+I am particularly interested in exploring how **Artificial Intelligence**, **Digital Twins, Networking**, and **Cybersecurity** can be integrated to build **intelligent**, **secure**, and **resilient** software systems for real world applications.
+
+I enjoy transforming ideas into **reliable**, **maintainable**, and **user friendly** software not just academic projects and I'm always eager to learn emerging technologies and apply them to solve practical challenges.
 
 ---
 
@@ -111,6 +115,23 @@ A real-time IoT simulation system using edge + cloud architecture.
 - Email alert system for critical events
 - Local storage (SQLite + CSV logging)
 
+### 🏗️ CIVIL ENGINEERING PROJECT MANAGEMENT SYSTEM
+
+A comprehensive project management platform developed to streamline civil engineering project workflows across multiple organizational roles.
+
+**Features**
+- Multi-role Authentication & Authorization
+- Project Planning & Tracking
+- Task Assignment & Progress Monitoring
+- Engineer, Clerk, Division Assistant & Admin Portals
+- Head Office & Branch Management
+- Document & File Management
+- Dashboard & Reporting
+- Workflow-based Approval Process
+- Secure Backend Architecture
+
+🔗 GitHub: https://github.com/Project-Managment-System/software-engineering-project
+
 ---
 
 ## 📈 Current Focus
@@ -120,6 +141,7 @@ A real-time IoT simulation system using edge + cloud architecture.
 - Learning DevOps workflows (deployment + CI/CD basics)
 - Exploring Machine Learning integration into real systems
 - Developing network-based distributed applications
+- Strengthening software architecture skills
 
 ---
 
@@ -128,8 +150,9 @@ A real-time IoT simulation system using edge + cloud architecture.
 - 🚀 Secure a Software Engineering / Backend Internship  
 - ☁️ Deploy multiple production-level full-stack systems  
 - 🤖 Build ML-powered real-world applications  
-- 🔌 Strengthen cloud + system architecture skills  
-- 🌍 Contribute to open-source projects  
+- 🔌 Strengthen cloud & system architecture skills  
+- 🌍 Contribute to open-source projects
+- 📚 Continuously improve software engineering best practices
 
 ---
 
@@ -155,7 +178,7 @@ A real-time IoT simulation system using edge + cloud architecture.
 
 ## 📫 Contact Me
 
-- 📧 Email: kasunikalakmali21@gmail.com  
+- 📧 Email: smkl.lakmali@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/kasunika-lakmali-27b5952a3/  
 - 💻 GitHub: https://github.com/lakmali-smkl  
 
